@@ -208,9 +208,10 @@ def main():
 
         ---
         Made with ❤️ using Streamlit and Gemini API  
-        👨‍💻 **Created by:** Rohit Sharma  
-        📧 **Email:** rohittnps@gmail.com
+        👨‍💻 **Created by:** Shreya Ranjan 
+        📧 **Email:** shreyaranjan9431@gmail.com
         """)
 
 if __name__ == "__main__":
     main()
+
